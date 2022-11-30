@@ -1,10 +1,10 @@
 # user-activity-prediction
 
 ## Team members:
-### Rajat Prashant Masurkar
-### Utkarsh Pant
-### Roshan Chokshi
-### Ruturaj Nawale
+- Rajat Prashant Masurkar
+- Utkarsh Pant
+- Roshan Chokshi
+- Ruturaj Nawale
 
 ## Project Description:
 #### The objective of the project is to predict the activity of a user from the sensors attached to the user’s torso, hands, and legs. There are 19 user activities such as walking, running on a treadmill, sitting, rowing, jumping, playing basketball, etc. There are 9 sensors from which the data is captured. Each of total of 8 users performs each activity for 5 minutes. There will be many features of all the activities, and the goal would be to minimize these features to achieve maximum efficiency in the prediction models.
